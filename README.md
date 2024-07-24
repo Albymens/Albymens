@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Albymens%29)
+![Profile Views](https://komarev.com/ghpvc/?username=albymens%29)
 
 <!--
 **Albymens/Albymens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
